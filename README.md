@@ -75,10 +75,6 @@ $ flask run
 
 ## Team
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/douglasvinicio/"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/128x128/72740d1400b95b82bea9ea85b7c1b592/douglasvinicio.png" width="100px;" alt="Douglas Vinicio"/><br /><sub><b>Douglas Vinicio</b></sub></a><br /><a href="https://github.com/douglasvinicio"title="Code">💻</a></td>
