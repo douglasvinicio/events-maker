@@ -13,9 +13,9 @@
   </a>
 </p>
 
-
+<p align="center">
 ## Go to the folder application:
-
+</p>
 ### Create a virtualenv
 $ python3 -m venv myvirtualenv
 
