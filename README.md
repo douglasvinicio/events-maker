@@ -1,6 +1,8 @@
 <!-- show case/gif section -->
 <p align="center">
     <img alt="Events Maker - Creating user and Channel " height="620" src="https://media.giphy.com/media/cO8Nom4LZTIn0K6Da0/giphy.gif" />
+    <img alt="Events Maker - Chat " height="620" src="https://media.giphy.com/media/IdINDyTVdNh36NZ6Ng/giphy.gif" />
+
   </a>
 </p>
 <!-- show case/gif section END-->
