@@ -44,25 +44,6 @@ So our focus was to develop a categorized chat created by the event owner allowi
 Our mission is to facilitate the interaction between the parts of an online event after the Pandemic, bringing the real-world experience to the online world, changing and improving at the same time the way the people connect, communicate and feel about an online event from the comfort of their houses.
 
 
-
-
-## Team
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/douglasvinicio/"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/128x128/72740d1400b95b82bea9ea85b7c1b592/douglasvinicio.png" width="100px;" alt="Douglas Vinicio"/><br /><sub><b>Douglas Vinicio</b></sub></a><br /><a href="https://github.com/douglasvinicio"title="Code">💻</a></td>
-    <td align="center"><a href="https://twitter.com/pedrojsn96"><img src="https://i.imgur.com/VuujzeL.jpg" width="100px;" alt="Pedro Neto"/><br /><sub><b>Pedro Neto</b></sub></a><br /><a href="https://github.com/pedrojsn96"title="Code">💻</a></td>
-     <td align="center"><a href="https://twitter.com/Barrogostoso"><img src="https://i.imgur.com/7o85nCs.jpg" width="100px;" alt="Luis Barroso"/><br /><sub><b>Luis Barroso</b></sub></a><br /><a href="https://github.com/luismesquita"title="Code">💻</a></td>
-    <td align="center"><a href="https://twitter.com/pjbacelar"><img src="https://i.imgur.com/JKy7cll.jpg" width="100px;" alt="Pedro Bacerlar"/><br /><sub><b>Pedro Bacelar</b></sub></a><br /><a href="https://www.behance.net/pjbacelar?tracking_source=search%7Cpjbacelar"title="Design">🎨</a></td>
-    <td align="center"><a href="https://twitter.com/caralhojoaum"><img src="https://i.imgur.com/4kGRWdN.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>João Ventura</b></sub></a><br /><a href="https://www.behance.net/joaovntr?tracking_source=search%7Cjo%C3%A3o%20ventura"title="Design">🎨</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 ### Let's run the app.  Go to the folder application:
 ##### Make sure you install a copy of Python 3.6 or higher.
 ##### Make sure you have pip installed too. If not run this command : 
@@ -91,3 +72,20 @@ $ pip install -r requirements.txt
 $ pip3 install flask-session
 ##### Run
 $ flask run
+
+## Team
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/douglasvinicio/"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/128x128/72740d1400b95b82bea9ea85b7c1b592/douglasvinicio.png" width="100px;" alt="Douglas Vinicio"/><br /><sub><b>Douglas Vinicio</b></sub></a><br /><a href="https://github.com/douglasvinicio"title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/fredsrocha"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/128x128/31b7370ac5a9b1ec516f4959009cf8ff/fredsrocha.png" width="100px;" alt="Fred Rocha"/><br /><sub><b>Fred Rocha</b></sub></a><br /><a href="https://github.com/FredSRocha"title="Code">💻</a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/danieldosanjos1989/"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/128x128/b5d95507a215983bcaa6a8fd0dca5679/danieldosanjos.png" width="100px;" alt="Daniel dos Anjos"/><br /><sub><b>Daniel dos Anjos</b></sub></a><br /><a href="https://github.com/Daniel-Anjos"title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/netoht/"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/395x395/01b14736118f242bd492883fb8a2e843/399316.png" width="100px;" alt="Waldinar"/><br /><sub><b>Waldinar Oliveira Neto</b></sub></a><br /><a href="https://github.com/netoht/"title="Code">💻</a></td>
+
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
