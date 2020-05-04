@@ -29,14 +29,27 @@ So our focus was to develop a categorized chat created by the event owner allowi
 Our mission is to facilitate the interaction between the parts of a online event after the Pandemic, bringing the real world experience to the online world, changing and improving at the same time the way the people connect, communicate and feel about an online event from the confort of their houses.
 
 ## Let's run the app.  Go to the folder application:
-
 ### Create a virtualenv
 $ python3 -m venv myvirtualenv
-
-# Install all dependencies
+### Install all dependencies
 $ pip install -r requirements.txt
-
-# Run
+### Run
 $ flask run
+### Go to 127.0.0.1:5000 on your web browser.
 
-# Go to 127.0.0.1:5000 on your web browser.
+## Exclusive for Linux Users : 
+
+### Install pip
+$ sudo install python3-pip
+### Install venv
+$ apt-get install python3-venv
+### Create a virtualenv (Optional but reccomended)
+$ python3 -m venv myvirtualenv
+### Activate the virtualenv
+$ source myvirtualenv/bin/activate (Linux)
+### Install all dependencies
+$ pip install -r requirements.txt
+### Install flask-session module
+$ pip3 install flask-session
+### Run
+$ flask run
