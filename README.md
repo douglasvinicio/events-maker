@@ -43,17 +43,37 @@ So our focus was to develop a categorized chat created by the event owner allowi
 
 Our mission is to facilitate the interaction between the parts of an online event after the Pandemic, bringing the real-world experience to the online world, changing and improving at the same time the way the people connect, communicate and feel about an online event from the comfort of their houses.
 
-## Let's run the app.  Go to the folder application:
-### Make sure you install a copy of Python 3.6 or higher.
-### Make sure you have pip installed too. If not run this command : 
+
+
+
+## Team
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/douglasvinicio/"><img src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/128x128/72740d1400b95b82bea9ea85b7c1b592/douglasvinicio.png" width="100px;" alt="Douglas Vinicio"/><br /><sub><b>Douglas Vinicio</b></sub></a><br /><a href="https://github.com/douglasvinicio"title="Code">💻</a></td>
+    <td align="center"><a href="https://twitter.com/pedrojsn96"><img src="https://i.imgur.com/VuujzeL.jpg" width="100px;" alt="Pedro Neto"/><br /><sub><b>Pedro Neto</b></sub></a><br /><a href="https://github.com/pedrojsn96"title="Code">💻</a></td>
+     <td align="center"><a href="https://twitter.com/Barrogostoso"><img src="https://i.imgur.com/7o85nCs.jpg" width="100px;" alt="Luis Barroso"/><br /><sub><b>Luis Barroso</b></sub></a><br /><a href="https://github.com/luismesquita"title="Code">💻</a></td>
+    <td align="center"><a href="https://twitter.com/pjbacelar"><img src="https://i.imgur.com/JKy7cll.jpg" width="100px;" alt="Pedro Bacerlar"/><br /><sub><b>Pedro Bacelar</b></sub></a><br /><a href="https://www.behance.net/pjbacelar?tracking_source=search%7Cpjbacelar"title="Design">🎨</a></td>
+    <td align="center"><a href="https://twitter.com/caralhojoaum"><img src="https://i.imgur.com/4kGRWdN.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>João Ventura</b></sub></a><br /><a href="https://www.behance.net/joaovntr?tracking_source=search%7Cjo%C3%A3o%20ventura"title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+### Let's run the app.  Go to the folder application:
+##### Make sure you install a copy of Python 3.6 or higher.
+##### Make sure you have pip installed too. If not run this command : 
 $ python get-pip.py
-### Create a virtualenv
+##### Create a virtualenv
 $ python3 -m venv myvirtualenv
-### Install all dependencies
+##### Install all dependencies
 $ pip install -r requirements.txt
-### Run
+##### Run
 $ flask run
-### Go to 127.0.0.1:5000 on your web browser.
+##### Go to 127.0.0.1:5000 on your web browser.
 
 #### Exclusive for Linux Users : 
 
