@@ -5,11 +5,6 @@
 
   </a>
 </p>
-<!-- show case/gif section END-->
-  # Clone repo
-$ git clone https://github.com/marcorichetta/cs50w-project2.git
-
-$ cd cs50-project2
 
 # Create a virtualenv (Optional but reccomended)
 $ python3 -m venv myvirtualenv
