@@ -13,6 +13,10 @@
   </a>
 </p>
 
+## Brainstorming Process 
+
+The challenge imposed by Pequenas [Empresas Grandes Negocios] (https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/);
+
 ## About the App
 
 Due to the changing in the world post Covid we need to make changes in the way we used to live,
@@ -29,11 +33,11 @@ So our focus was to develop a categorized chat created by the event owner allowi
 Our mission is to facilitate the interaction between the parts of a online event after the Pandemic, bringing the real world experience to the online world, changing and improving at the same time the way the people connect, communicate and feel about an online event from the confort of their houses.
 
 ## Let's run the app.  Go to the folder application:
-## Make sure you install a copy of Python 3.6 or higher.
-## Make sure you have pip installed too. If not run this command : 
-- $ python get-pip.py
+### Make sure you install a copy of Python 3.6 or higher.
+### Make sure you have pip installed too. If not run this command : 
+$ python get-pip.py
 ### Create a virtualenv
-- $ python3 -m venv myvirtualenv
+$ python3 -m venv myvirtualenv
 ### Install all dependencies
 $ pip install -r requirements.txt
 ### Run
