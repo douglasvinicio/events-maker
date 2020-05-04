@@ -15,7 +15,7 @@
 
 ## Brainstorming Process 
 
-The challenge Pequenas [Empresas Grandes Negocios](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/) and [Epoca Negocios](https://epocanegocios.globo.com); was to create a tool that would help the interviewer to connect with the conference speaker and at the same time unify the event organizer, speaker and user in one platform making the life easier and helping each one of them to achieve their goals while attending an online event. 
+The challenge [Pequenas Empresas Grandes Negocios](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/) and [Epoca Negocios](https://epocanegocios.globo.com); was to create a tool that would help the interviewer to connect with the conference speaker and at the same time unify the event organizer, speaker and user in one platform making the life easier and helping each one of them to achieve their goals while attending an online event. 
 
 The ideas we came up to solve this problem was : 
 
@@ -55,19 +55,19 @@ $ pip install -r requirements.txt
 $ flask run
 ### Go to 127.0.0.1:5000 on your web browser.
 
-## Exclusive for Linux Users : 
+#### Exclusive for Linux Users : 
 
-### Install pip
+##### Install pip
 $ sudo install python3-pip
-### Install venv
+##### Install venv
 $ apt-get install python3-venv
-### Create a virtualenv (Optional but reccomended)
+##### Create a virtualenv (Optional but reccomended)
 $ python3 -m venv myvirtualenv
-### Activate the virtualenv
+##### Activate the virtualenv
 $ source myvirtualenv/bin/activate (Linux)
-### Install all dependencies
+##### Install all dependencies
 $ pip install -r requirements.txt
-### Install flask-session module
+##### Install flask-session module
 $ pip3 install flask-session
-### Run
+##### Run
 $ flask run
