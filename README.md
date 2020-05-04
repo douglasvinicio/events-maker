@@ -73,6 +73,10 @@ $ pip3 install flask-session
 ##### Run
 $ flask run
 
+## Final Considerations
+
+We were able to develop the layout and the creation of chats so we could show the idea to the judges but due to the short time and lack of experience developing those kind of solutions we could't integrate the Twillio Video API in our platform. We'll continue working on this.
+
 ## Team
 
 <table>
