@@ -1,6 +1,6 @@
 <!-- header section -->
 <p align="center">
-  <img  alt="Events Maker  - Logo" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/960x140/d5a316720770a6100316bb1873c0810e/title-gh.png" height="224" /><br/>
+  <img  alt="Events Maker  - Logo" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/960x140/e670d082b4cd2f0cd33c574185e99ffb/title-gh2.png" height="224" /><br/>
   <span>Event Platform Developed using <b> Python / Flask / Javascript </b></span><br/>
   <span>Running on <b>Safari , Chrome and Firefox </b>. </span><br/>
 </p>
@@ -15,33 +15,33 @@
 
 ## Brainstorming Process 
 
-The challenge imposed by Pequenas [Empresas Grandes Negocios](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/) and [Epoca Negocios](https://epocanegocios.globo.com); was to create a tool that would help the interviewer to connect with the conference speaker and at the same time unify the event organizer, speaker and user in one platform making the life easier and helping each one of them to achieve their goals while attending an online event. 
+The challenge Pequenas [Empresas Grandes Negocios](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/) and [Epoca Negocios](https://epocanegocios.globo.com); was to create a tool that would help the interviewer to connect with the conference speaker and at the same time unify the event organizer, speaker and user in one platform making the life easier and helping each one of them to achieve their goals while attending an online event. 
 
 The ideas we came up to solve this problem was : 
 
 - A platform that organize an online event / course / class / speech.
 
-- Categorized chat by age;interest;goal created by the event owner. 
+- Categorized chat by age; interest; goal created by the event owner. 
 (Option to leave the channels open allowing users to discuss after the end of the event - Networking Coffe after event concept )
 
 - For multiples simultaneous streams events as big conferences the option to switch audio from one room to another without the need of leaving or refreshing the page. ( Just let me hear real quick what's going on on the other room ). 
 
-PS : Due the time of the hackaton we couldn't implement all the tools. 
+PS: Due to the short time of the hackathon we couldn't implement all the tools. 
 
 ## About the App
 
 Due to the changing in the world post Covid we need to make changes in the way we used to live,
-attending to big events and conferences will not be a reality for a long time, so we came up with this idea to bring the user experince a little bit closer when attending a big event. 
+attending big events and conferences won't be a reality for a long time, so we came up with this idea to bring the user experience a little bit closer when attending a big event. 
 
-Our challenge consist in creating a tool to help people, jornalists and speechers to connect and interact in an easier way improving the experience and creating engagement when in a live event. 
+Our challenge consists of creating a tool to help people, journalists, and speakers to connect and interact in an easier way, improving the experience and creating engagement when in a live event. 
 
-After the brainstorming process our next step was to "feel" and to know why real people don't use the chat of live events and the answer was in most cases the lack of organization. 
+After the brainstorming process, our next step was to "feel" and to know why real people don't use the chat of live events and the answer was in most cases the lack of organization. 
 
-So our focus was to develop a categorized chat created by the event owner allowing people to choose wich room / channel he want to be part of and switch between those channels while the event are happening. 
+So our focus was to develop a categorized chat created by the event owner allowing people to choose which room/channel he wants to be part of and switch between those channels while the event is happening. 
 
 ## Our mission
 
-Our mission is to facilitate the interaction between the parts of a online event after the Pandemic, bringing the real world experience to the online world, changing and improving at the same time the way the people connect, communicate and feel about an online event from the confort of their houses.
+Our mission is to facilitate the interaction between the parts of an online event after the Pandemic, bringing the real-world experience to the online world, changing and improving at the same time the way the people connect, communicate and feel about an online event from the comfort of their houses.
 
 ## Let's run the app.  Go to the folder application:
 ### Make sure you install a copy of Python 3.6 or higher.
