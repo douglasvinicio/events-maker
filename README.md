@@ -1,6 +1,6 @@
 <!-- header section -->
 <p align="center">
-  <img  alt="Events Maker  - Logo" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/320x80/f159c719340b8e8ec6c187d61302dbb1/logo-events-maker-title.jpg" height="224" /><br/>
+  <img  alt="Events Maker  - Logo" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/960x140/d5a316720770a6100316bb1873c0810e/title-gh.png" height="224" /><br/>
   <span>Event Platform Developed using <b> Python / Flask / Javascript </b></span><br/>
   <span>Running on <b>Safari , Chrome and Firefox </b>. </span><br/>
 </p>
@@ -15,7 +15,18 @@
 
 ## Brainstorming Process 
 
-The challenge imposed by Pequenas [Empresas Grandes Negocios] (https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/);
+The challenge imposed by Pequenas [Empresas Grandes Negocios](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/) and [Epoca Negocios](https://epocanegocios.globo.com); was to create a tool that would help the interviewer to connect with the conference speaker and at the same time unify the event organizer, speaker and user in one platform making the life easier and helping each one of them to achieve their goals while attending an online event. 
+
+The ideas we came up to solve this problem was : 
+
+- A platform that organize an online event / course / class / speech.
+
+- Categorized chat by age;interest;goal created by the event owner. 
+(Option to leave the channels open allowing users to discuss after the end of the event - Networking Coffe after event concept )
+
+- For multiples simultaneous streams events as big conferences the option to switch audio from one room to another without the need of leaving or refreshing the page. ( Just let me hear real quick what's going on on the other room ). 
+
+PS : Due the time of the hackaton we couldn't implement all the tools. 
 
 ## About the App
 
