@@ -1,6 +1,6 @@
 <!-- header section -->
 <p align="center">
-  <img  alt="Events Maker  - Logo" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/960x140/e670d082b4cd2f0cd33c574185e99ffb/title-gh2.png" height="auto" /><br/>
+  <img  alt="Events Maker  - Logo" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/1197x273/3a628bc6202989d1dbc47b749b1505ee/logo-events-maker.jpg" height="auto" /><br/>
   <span>Event Platform Developed using <b> Python / Flask / Javascript </b></span><br/>
   <span>Running on <b>Safari , Chrome and Firefox </b>. </span><br/>
 </p>
